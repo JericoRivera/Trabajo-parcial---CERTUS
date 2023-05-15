@@ -34,7 +34,7 @@ $(document).ready(function () {
         if (!confirm("¿Seguro que deseas enviar?")) {
             return false; // Caso presiona Cancelar
         }
-        alert("El formulario ha sido enviado..");
+        alert("El registro se lleno correctamente");
     })
 
 })
